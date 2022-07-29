@@ -1,0 +1,10 @@
+body{
+    color:#414042; 
+    font-size:90%; 
+    font-family: 'Roboto', sans-serif;
+}
+
+.welcome-msg{
+    font-size:400%; 
+    font-weight: bolder;
+}
